@@ -26,7 +26,7 @@ public class CampusNavigator extends JFrame {
         locations.put("99 Campus", new Point(200, 150));
         locations.put("98 Campus", new Point(500, 100));
         locations.put("154 Campus", new Point(500, 100));
-        locations.put("153 Campus", new Point(500, 100));
+        locations.put("153 Campus", new Point(700, 150));
         locations.put("79 Campus - Main Library", new Point(500, 100));
 
         locations.put("100 Stationary Shop", new Point(500, 100));
