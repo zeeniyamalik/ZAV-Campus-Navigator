@@ -7,29 +7,29 @@ It helps students and visitors find the shortest path between different location
 This project is designed for SZABIST Campus (Karachi) and demonstrates how graph algorithms can be applied in real-world navigation systems.
 
 <h3>Key Features:</h3>
-1. Shortest Path Finder
+<b>1. Shortest Path Finder</b>
 Finds the shortest route between two selected locations using BFS.
 Supports a mandatory stop point (optional), allowing users to add a stopover in their route.
-<br>
-2. Visual Map Interface
+<br><br>
+<b>2. Visual Map Interface</b>
 An interactive campus map where:
 - Path is drawn with lines
 - Start point is marked in Blue
 - Stop point (if any) is marked in Orange
 - Destination is marked in Red
-<br>
-3. Clickable Map
+<br><br>
+<b>3. Clickable Map</b>
 You can click anywhere on the map to view the exact coordinates (useful for adding new locations).
 
 <h3>How It Works</h3>
 
-Graph Structure
+<b>Graph Structure</b>
 The campus is represented as a graph:
 - Each location is a node
 - Each connection is an edge
 - BFS is used to find the shortest path between two nodes
   
-BFS Pathfinding
+<b>BFS Pathfinding</b>
 The BFS algorithm ensures:
 - The shortest path (in terms of number of edges) is found
 - Works efficiently even for larger campus maps
