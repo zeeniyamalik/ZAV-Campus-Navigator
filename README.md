@@ -37,11 +37,11 @@ The BFS algorithm ensures:
 <h3>Project Files</h3>
  
 ```CampusNavigator.java```	----  Main GUI and map rendering<br>
-```Graph.java```	--------------  Graph implementation + BFS algorithm<br>
-```Paths.java```	--------------  Example graph builder<br>
-```Queue.java```	--------------  Custom queue implementation<br>
-```Node.java```	----------------  Node structure for queue<br>
-```campus_map.png```	----------  Campus map image used in the GUI made in FIGMA<br>
+```Graph.java```	----------------  Graph implementation + BFS algorithm<br>
+```Paths.java```	----------------  Example graph builder<br>
+```Queue.java```	----------------  Custom queue implementation<br>
+```Node.java```	------------------  Node structure for queue<br>
+```campus_map.png```	------------  Campus map image used in the GUI made in FIGMA<br>
 
 <h3>How to Run</h3>
 
