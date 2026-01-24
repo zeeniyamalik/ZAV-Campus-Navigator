@@ -10,14 +10,14 @@ This project is designed for SZABIST Campus (Karachi) and demonstrates how graph
 1. Shortest Path Finder
 Finds the shortest route between two selected locations using BFS.
 Supports a mandatory stop point (optional), allowing users to add a stopover in their route.
-
+<br>
 2. Visual Map Interface
 An interactive campus map where:
 - Path is drawn with lines
 - Start point is marked in Blue
 - Stop point (if any) is marked in Orange
 - Destination is marked in Red
-
+<br>
 3. Clickable Map
 You can click anywhere on the map to view the exact coordinates (useful for adding new locations).
 
