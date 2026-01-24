@@ -1,5 +1,5 @@
 # Campus-Navigator
-Project Overview
+<h2>Project Overview</h2>
 
 Campus Navigator is a Java-based desktop application built using Java Swing.
 It helps students and visitors find the shortest path between different locations inside the university campus using Breadth-First Search (BFS).
