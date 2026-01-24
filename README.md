@@ -19,7 +19,7 @@ An interactive campus map where:
 - Destination is marked in Red
 <br><br>
 <b>3. Clickable Map</b><br>
-You can click anywhere on the map to view the exact coordinates (useful for adding new locations).<br><i>Uses Mouse Listener</i>
+You can click anywhere on the map to view the exact coordinates (useful for adding new locations).<br><i>*Uses Mouse Listener</i>
 
 <h3>How It Works</h3>
 
